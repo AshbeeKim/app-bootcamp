@@ -7,7 +7,7 @@ Following Angela Yu's "The Complete Flutter Development Bootcamp with Dart" on U
 * [x] Section 2: Setup and Installation
 * [x] Section 3: I Am Rich - How to Create Flutter Apps From Scratch
 * [x] Section 4: Running Your App on A Physical Device
-* [ ] Section 5: I Am Poor - App Challenge
+* [x] Section 5: I Am Poor - App Challenge
 * [ ] Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
 * [ ] Section 7: Dicee - Building Apps with State
 * [ ] Section 8: Boss Level Challenge 1 - Magic 8 Ball
