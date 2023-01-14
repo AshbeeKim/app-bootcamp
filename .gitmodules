@@ -1,3 +1,6 @@
 [submodule "mi_card_flutter"]
 	path = mi_card_flutter
 	url = https://github.com/londonappbrewery/mi_card_flutter.git
+[submodule "dicee-flutter"]
+	path = dicee-flutter
+	url = https://github.com/londonappbrewery/dicee-flutter.git
