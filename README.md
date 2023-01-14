@@ -8,7 +8,7 @@ Following Angela Yu's "The Complete Flutter Development Bootcamp with Dart" on U
 * [x] Section 3: I Am Rich - How to Create Flutter Apps From Scratch
 * [x] Section 4: Running Your App on A Physical Device
 * [x] Section 5: I Am Poor - App Challenge
-* [ ] Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
+* [x] Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
 * [ ] Section 7: Dicee - Building Apps with State
 * [ ] Section 8: Boss Level Challenge 1 - Magic 8 Ball
 * [ ] Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
@@ -27,3 +27,5 @@ Following Angela Yu's "The Complete Flutter Development Bootcamp with Dart" on U
 * https://icons8.com/
 * https://www.vecteezy.com/
 * https://www.canva.com/ko_kr/
+* https://m2.material.io/design/iconography/system-icons.html#design-principles
+* https://www.materialpalette.com/
