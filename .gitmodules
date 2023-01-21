@@ -7,3 +7,6 @@
 [submodule "magic-8-ball-flutter"]
 	path = magic-8-ball-flutter
 	url = https://github.com/AshbeeKim/magic-8-ball-flutter.git
+[submodule "xylophone-flutter"]
+	path = xylophone-flutter
+	url = https://github.com/AshbeeKim/xylophone-flutter.git
