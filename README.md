@@ -13,7 +13,7 @@ Following Angela Yu's "The Complete Flutter Development Bootcamp with Dart" on U
 * [x] Section 8: Boss Level Challenge 1 - Magic 8 Ball
 * [x] Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 * [x] Section 10: Quizzler - Modularising & Organising Flutter Code
-* [ ] Section 11: Boss Level Challenge 2 - Destini
+* [x] Section 11: Boss Level Challenge 2 - Destini
 * [ ] Section 12: BMI Calculator - Building Flutter UI for Intermediates
 * [ ] Section 13: Clima - Powering Your Flutter App with Live Web Data
 * [ ] Section 14: Boss Level Challenge 3 - Bitcoin Ticker

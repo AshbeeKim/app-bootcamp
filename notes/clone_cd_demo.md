@@ -37,6 +37,7 @@
 
 ## Destini
 <div align="center">
+    <video controls="controls" width="250" src="https://user-images.githubusercontent.com/81610017/213917039-5368a776-adf8-4e73-afde-0e0038ce3350.mov"></video>
 </div>
 
 ## BMI Calculator
