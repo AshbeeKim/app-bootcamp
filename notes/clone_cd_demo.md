@@ -32,6 +32,7 @@
 
 ## Quizzler
 <div align="center">
+    <video controls="controls" width="250" src="https://user-images.githubusercontent.com/81610017/213913475-d3b02463-445d-450b-ae85-41cc52c7cb36.mov"></video>
 </div>
 
 ## Destini
