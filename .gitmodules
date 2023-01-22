@@ -13,3 +13,6 @@
 [submodule "quizzler-flutter"]
 	path = quizzler-flutter
 	url = https://github.com/AshbeeKim/quizzler-flutter.git
+[submodule "destini"]
+	path = destini
+	url = https://github.com/AshbeeKim/destini-challenge-starting.git
