@@ -34,3 +34,4 @@ Following Angela Yu's "The Complete Flutter Development Bootcamp with Dart" on U
 ## Notes
 * [My Goal](./notes/my_goals.md)
 * [Clone CD Demo](./notes/clone_cd_demo.md)
+* [What is OOP](./notes/what_is_oop.md)
