@@ -42,6 +42,7 @@
 
 ## BMI Calculator
 <div align="center">
+    <video controls="controls" width="250" src="https://user-images.githubusercontent.com/81610017/216313133-8b4fbd2a-5ecd-4ca7-a2eb-a0e8587e61b0.mov"></video>
 </div>
 
 ## Clima
