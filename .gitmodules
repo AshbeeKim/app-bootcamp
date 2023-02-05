@@ -19,3 +19,6 @@
 [submodule "bmi-calculator"]
 	path = bmi-calculator
 	url = https://github.com/AshbeeKim/bmi-calculator-flutter.git
+[submodule "Clima-Flutter"]
+	path = Clima-Flutter
+	url = https://github.com/AshbeeKim/Clima-Flutter.git
