@@ -46,7 +46,8 @@
 </div>
 
 ## Clima
-<div align="center"> 
+<div align="center">
+    <video controls="controls" width="250" src="https://user-images.githubusercontent.com/81610017/217562274-0a982a96-d583-49cb-85f1-5248dfe3c0dd.mov"></video>
 </div>
 
 ## Bitcoin Ticker
