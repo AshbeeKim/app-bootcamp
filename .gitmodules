@@ -22,3 +22,6 @@
 [submodule "Clima-Flutter"]
 	path = Clima-Flutter
 	url = https://github.com/AshbeeKim/Clima-Flutter.git
+[submodule "bitcoin-ticker"]
+	path = bitcoin-ticker
+	url = https://github.com/AshbeeKim/bitcoin-ticker-flutter.git
