@@ -51,7 +51,8 @@
 </div>
 
 ## Bitcoin Ticker
-<div align="center"> 
+<div align="center">
+    <video controls="controls" width="250" src="https://user-images.githubusercontent.com/81610017/218249160-128bd395-3fbd-4e0c-8145-0be7d52e2e34.mov"></video>
 </div>
 
 ## Flask Chat
